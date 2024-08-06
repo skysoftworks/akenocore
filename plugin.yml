@@ -1,0 +1,11 @@
+main: xyz.chudvvick.akeno.Main
+name: AkenoCore
+version: '1.1'
+description: AkenoCore by chudvvick#4654, antipathy#1589
+author: [chudvvick, antipathy]
+commands:
+   kaptan:
+      description: Kaptan
+      aliases:
+      - kaptanmenu
+      usage: /<command>

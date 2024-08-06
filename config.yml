@@ -1,0 +1,8 @@
+license: "Lisans giriniz"
+
+potion-cooldown: 15
+ender-cooldown: 15
+
+sojoin: true
+logingui: true
+cooldowns: true
